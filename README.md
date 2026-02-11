@@ -66,3 +66,48 @@ This repository helps students:
 
 ## 📂 Repository Structure
 
+Deep-Learning-Concepts
+│
+├── DEEP LEARNING.docx # Main study material
+└── README.md # Project documentation
+---
+
+## 🚀 How to Use
+
+1. Clone the repository:
+
+2. Open the study material file.
+
+3. Review the concepts step by step.
+
+---
+
+## 🎯 Learning Outcomes
+
+After completing this assignment, you will understand:
+
+- Structure of neural networks
+- Role of activation functions
+- Training using optimizers
+- Importance of loss functions
+- Model evaluation methods
+
+---
+
+## 🛠️ Tools Used
+
+- Deep Learning Theory
+- Neural Network Concepts
+- Markdown Documentation
+
+---
+
+## 📄 License
+
+This project is created for educational and academic purposes.
+
+---
+
+## ⭐ Acknowledgment
+
+If this repository helps your learning, consider starring it.
